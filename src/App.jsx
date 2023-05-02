@@ -26,7 +26,7 @@ export default function App() {
   return (
     <div className="flex flex-col gap-5 px-10 bg-gradient-to-tr from-slate-900 to-slate-800">
       <h1 className="text-2xl text-center text-white font-bold underline">
-        Entertain
+        Entertain Me
       </h1>
 
       {/* search bar */}
